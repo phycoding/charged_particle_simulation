@@ -111,5 +111,5 @@ Special thanks to the developers of PyTorch and the SympNet framework, whose too
 
 ## Contact
 
-If you have any questions or suggestions, feel free to contact me at [puspakmeher3@gmail.com](mailto:puspakmeher3@gmail.com).
-```
+If you have any questions or suggestions, feel free to contact me at [Mail](mailto:puspakmeher3@gmail.com) and [LinkedIn](https://www.linkedin.com/in/puspakmeher3/?_l=en_US)
+
