@@ -16,7 +16,7 @@ The goal of this project is to model the trajectory of a charged particle based 
 
 > ##### Using Sympnet
 
-![Sympnet video](./simulation_video/particle_trajectory_PNN.mp4)
+![Sympnet video](./simulation_gif\sympnet.gif)
 
 
 ### Key Features:
