@@ -1,4 +1,4 @@
-# Charged Particle Simulation with SympNet
+# Charged Particle Simulation with PINN, PNN and SympNet
 
 ## Project Overview
 
