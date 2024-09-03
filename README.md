@@ -12,11 +12,11 @@ The goal of this project is to model the trajectory of a charged particle based 
 
 > ##### Using PNN
 
-![PNN video](./simulation_gif\PNN.gif)
+![PNN video](./simulation_gif\particle_trajectory_PNN.gif)
 
 > ##### Using Sympnet
 
-![Sympnet video](./simulation_gif\sympnet.gif)
+![Sympnet video](./simulation_gif\particle_trajectory_sympnet.gif)
 
 
 ### Key Features:
