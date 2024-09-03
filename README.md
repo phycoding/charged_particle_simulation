@@ -8,7 +8,7 @@ The goal of this project is to model the trajectory of a charged particle based 
 
 > ### Here is the results of simulated trajectory
 > ##### Using PINN
-![PINN video](.simulation_gif\particle_trajectory_Pinn (2).gif)
+![PINN video](./simulation_gif/particle_trajectory_Pinn.gif)
 
 > ##### Using PNN
 
