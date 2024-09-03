@@ -38,7 +38,7 @@ where:
 
 > ##### Using Sympnet
 
-![Sympnet video](./simulation_gif/particle_trajectory_sympnet.gif)
+![Sympnet video](./simulation_gif/particle_trajectory_Sympnet.gif)
 
 
 ### Key Features:
