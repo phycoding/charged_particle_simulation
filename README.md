@@ -8,21 +8,15 @@ The goal of this project is to model the trajectory of a charged particle based 
 
 > ### Here is the results of simulated trajectory
 > ##### Using PINN
-<video controls>
-  <source src="simulation_video\particle_trajectory_Pinn.mp4" type="simulation_video/mp4">
-</video>
+![PINN video](./simulation_video/particle_trajectory_PNN.mp4)
 
 > ##### Using Sympnet
 
-<video controls>
-  <source src="simulation_video\particle_trajectory_Pinn.mp4" type="simulation_video/mp4">
-</video>
+![PINN video](./simulation_video/particle_trajectory_PNN.mp4)
 
 > ##### Using PNN
 
-<video controls>
-  <source src="simulation_video\particle_trajectory_Pinn.mp4" type="simulation_video/mp4">
-</video>
+![PINN video](./simulation_video/particle_trajectory_PNN.mp4)
 
 
 ### Key Features:
