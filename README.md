@@ -11,7 +11,10 @@ This project involves predicting the future states of a charged particle in an e
 
 The motion of a charged particle in an electromagnetic field is governed by the equation:
 
-\[ m \ddot{x} = q \left( E + \dot{x} \times B \right) \]
+$$
+m \ddot{x} = q \left( E + \dot{x} \times B \right)
+$$
+
 
 where:
 - \( m \) is the mass,
